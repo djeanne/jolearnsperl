@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 
+use strict;
+use warnings;
+
 %car_catalog = ("BMW Series 5" => 100000, "Mercedes 2000" => 250000, "Toyota Corolla" => 20000, "Lexus 3" => 95000);
 @my_wishlist = ("BMW Series 5", "Toyota Corolla");
 
